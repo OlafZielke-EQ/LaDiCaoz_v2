@@ -1,0 +1,14 @@
+Run_Parameter_Information
+InputName:                testA
+Realization_Number:       1
+Grid_Number:              1
+UsePostSeis(0/1):         1
+UseRuptPropag(0/1):       1
+MinMagnitude4RupProp:     5.5
+InterseisTimeStep(days):  3.0
+Viscosity_DeepRelax:      2
+Viscocity_AfterSlip:      4
+EQrecordLength(years):    2000.0
+HealingDuringCoseis:      0.3
+RandSeedValue:            1234
+
